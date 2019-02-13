@@ -103,9 +103,9 @@ def q6():
 
 
 if __name__ == '__main__':
-    # q1()
-    # q2()
-    # q3()
+    q1()
+    q2()
+    q3()
     # q4 on sheet
     # q5 on sheet
     q6()
